@@ -1,28 +1,19 @@
 # Awesome React Native Apps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> sample react-native apps for design and coding references.
-
+> 🚀 🏊🏾 Amazingly awesome examples of open-source react-native applications for design and coding references
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Entertainment](#entertainment)
+- [Productivity](#productivity)
 
+## 🍿🎢 Entertainment
 
-## Section
+- [movieapp](https://github.com/junedomingo/movieapp) by junedomingo - Discover Movies and TV shows - React Native
 
-About this section. Optional. Keep this short and focus on the list.
+## ✏️📎 Productivity
 
-- [List item](http://example.com)
-- [List item](http://example.com)
-
-
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [weeklyplans](https://github.com/deadcoder0904/weeklyplans) by deadcoder0904 - React Native App made with Expo & NativeBase for planning schedule in Weeks
 
 
 ## Contribute
