@@ -4,9 +4,9 @@
 
 ## Contents
 
-- [Entertainment](#entertainment)
-- [Productivity](#productivity)
-- [Social](#social)
+- [Entertainment](#🍿🎢-entertainment)
+- [Productivity](#✏️📎-productivity)
+- [Social](#💃🏽🗨-social)
 
 ## 🍿🎢 Entertainment
 
@@ -27,7 +27,7 @@
 - **[Weather-App-React-Native](https://github.com/delfrrr/weather-app-react-native)** by [delfrrr](https://github.com/delfrrj)    
     An iOS app for comparing weather forecast with historical data built with react-native, redux, d3.js, and react-native-svg.
 
-## 💃🏽 🗨 Social
+## 💃🏽🗨 Social
 
 - **[WhatsApp Clone](https://github.com/VctrySam/whatsapp)** by [VctorySam](https://github.com/VctrySam)
 
