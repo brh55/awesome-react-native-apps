@@ -8,8 +8,9 @@
 - [Productivity](#productivity)
 - [Social](#social)
 
-🍿🎢 
+
 ## Entertainment
+### 🍿🎢 
 
 - **[Expo-Cross-Road](https://github.com/EvanBacon/Expo-Crossy-Road)** by [EvanBacon](https://github.com/EvanBacon)    
     🐥🚙 Frog game made in Expo, THREE.js, OpenGL, Tween, Redux, Rehydrate, React-Navigation.
@@ -19,8 +20,8 @@
     
 - **[SnapChat Clone](https://github.com/VctrySam/SnapChat)** by [VctorySam](https://github.com/VctrySam/)
 
-✏️📎
 ## Productivity
+### ✏️📎
 
 - **[weeklyplans](https://github.com/deadcoder0904/weeklyplans)** by [deadcoder0904](https://github.com/deadcoder0904)    
     React Native App made with Expo & NativeBase for planning schedule in Weeks
@@ -28,8 +29,8 @@
 - **[Weather-App-React-Native](https://github.com/delfrrr/weather-app-react-native)** by [delfrrr](https://github.com/delfrrj)    
     An iOS app for comparing weather forecast with historical data built with react-native, redux, d3.js, and react-native-svg.
 
-💃🏽🗨
 ## Social
+### 💃🏽🗨
 
 - **[WhatsApp Clone](https://github.com/VctrySam/whatsapp)** by [VctorySam](https://github.com/VctrySam)
 
