@@ -22,6 +22,9 @@
 
 - **[weeklyplans](https://github.com/deadcoder0904/weeklyplans)** by [deadcoder0904](https://github.com/deadcoder0904)    
     React Native App made with Expo & NativeBase for planning schedule in Weeks
+    
+- **[Weather-App-React-Native](https://github.com/delfrrr/weather-app-react-native)** by [delfrrr](https://github.com/delfrrj)    
+    An iOS app for comparing weather forecast with historical data built with react-native, redux, d3.js, and react-native-svg.
 
 ## 💃🏽 🗨 Social
 
