@@ -9,11 +9,16 @@
 
 ## 🍿🎢 Entertainment
 
-- [movieapp](https://github.com/junedomingo/movieapp) by junedomingo - Discover Movies and TV shows - React Native
+- **[Expo-Cross-Road](https://github.com/EvanBacon/Expo-Crossy-Road)** by [EvanBacon](https://github.com/EvanBacon)    
+    🐥🚙 Frog game made in Expo, THREE.js, OpenGL, Tween, Redux, Rehydrate, React-Navigation.
+
+- **[movieapp](https://github.com/junedomingo/movieapp)** by [junedomingo](https://github.com/junedomingo)    
+    Discover Movies and TV shows in React Native
 
 ## ✏️📎 Productivity
 
-- [weeklyplans](https://github.com/deadcoder0904/weeklyplans) by deadcoder0904 - React Native App made with Expo & NativeBase for planning schedule in Weeks
+- **[weeklyplans](https://github.com/deadcoder0904/weeklyplans)** by [deadcoder0904](https://github.com/deadcoder0904)    
+    React Native App made with Expo & NativeBase for planning schedule in Weeks
 
 
 ## Contribute
