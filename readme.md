@@ -6,6 +6,7 @@
 
 - [Entertainment](#entertainment)
 - [Productivity](#productivity)
+- [Social](#social)
 
 ## 🍿🎢 Entertainment
 
