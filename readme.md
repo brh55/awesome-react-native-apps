@@ -23,14 +23,15 @@
 ## Productivity
 ### ✏️📎
 
-- **[weeklyplans](https://github.com/deadcoder0904/weeklyplans)** by [deadcoder0904](https://github.com/deadcoder0904)    
-    React Native App made with Expo & NativeBase for planning schedule in Weeks
+- **[Buttercup Password Manager](https://github.com/buttercup/buttercup-mobile)** by [buttercup](https://github.com/buttercup)   
+    A free and open-source password manager, available on all major platforms.
     
 - **[Weather-App-React-Native](https://github.com/delfrrr/weather-app-react-native)** by [delfrrr](https://github.com/delfrrj)    
     An iOS app for comparing weather forecast with historical data built with react-native, redux, d3.js, and react-native-svg.
+    
+- **[F8 App 2016](https://github.com/fbsamples/f8app)** by Facebook    
+    The official app for the F8 conference using redux, relay, graphql, and more.
 
-- **[Buttercup Password Manager](https://github.com/buttercup/buttercup-mobile)** by [buttercup](https://github.com/buttercup)   
-    A free and open-source password manager, available on all major platforms.
 ## Social
 ### 💃🏽🗨
 
