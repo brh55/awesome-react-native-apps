@@ -29,6 +29,8 @@
 - **[Weather-App-React-Native](https://github.com/delfrrr/weather-app-react-native)** by [delfrrr](https://github.com/delfrrj)    
     An iOS app for comparing weather forecast with historical data built with react-native, redux, d3.js, and react-native-svg.
 
+- **[Buttercup Password Manager](https://github.com/buttercup/buttercup-mobile)** by [buttercup](https://github.com/buttercup)   
+    A free and open-source password manager, available on all major platforms.
 ## Social
 ### 💃🏽🗨
 
