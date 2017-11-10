@@ -32,7 +32,7 @@
 - **[F8 App 2016](https://github.com/fbsamples/f8app)** by Facebook    
     The official app for the F8 conference using redux, relay, graphql, and more.
     
-- **[Boostnote](https://github.com/BoostIO/boostnote-mobile)** by BoostNote
+- **[Boostnote](https://github.com/BoostIO/boostnote-mobile)** by BoostNote    
     A open-source note-taking app designed for programmers
 
 ## Social
